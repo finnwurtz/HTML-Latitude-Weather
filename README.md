@@ -1,2 +1,2 @@
 # Latitude_Web
-Web Visualization of Weather Data by Latitude
+Web visualization of weather data by latitude

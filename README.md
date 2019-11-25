@@ -1,2 +1,2 @@
 # Latitude_Web
-Web visualization of weather data by latitude
+This program uses HTML to display the data obtained in Python-API-Weather.

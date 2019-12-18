@@ -1,4 +1,6 @@
 # HTML-Latitude-Weather
 This program uses HTML to display the data obtained using the [Python-API-Weather](https://github.com/finnwurtz/Python-API-Weather) program.
 
-XXX
+Have you ever wondered whether the weather in your city is typical of cities at roughly the same latitude? If so, this website is the website for you! The site, which features graphs, data, and commentary, intends to shed light on a set of meteorological relationships that you may or may not have wondered about.
+
+At the top of each of the site's pages, visitors will find a menu whose buttons will allow them to navigate the site with ease and efficiency. While the 'plots' drop-down menu directs visitors to pages for several weather indicators that display a graph and a short commentary for each indicator, the page linked to the 'comparisons' button displays all of the graphs together, omitting the commentary for visual clarity. Meanwhile, the page linked to the 'project data' button gives visitors access to the data used to make the visualizations and the 'home' button brings visitors back to the home page. The site is written in HTML & CSS.

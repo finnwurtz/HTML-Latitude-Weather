@@ -8,4 +8,4 @@ At the top of each of the site's pages, visitors will find a menu whose buttons 
 /
 
 ![Landing Page Screenshot](screenshots/landing_page_screenshot.png)![Maximum Temperature Plot Screenshot](screenshots/max_temp_plot_screenshot.png)
-![Comparisons Page Screenshot](screenshots/comparisongs_screenshot.png)![Data Page Screenshot](screenshots/project_data_screenshot.png)
+![Comparisons Page Screenshot](screenshots/comparisons_screenshot.png)![Data Page Screenshot](screenshots/project_data_screenshot.png)

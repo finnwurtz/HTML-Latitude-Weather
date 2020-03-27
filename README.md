@@ -3,7 +3,7 @@ This program uses HTML to display the data obtained using the [Python-API-Weathe
 
 The program was designed to organize information on weather patterns such that it is straightforward and easily navigable. As such, the information is distributed across several webpages encompassed within an interactive website. Meteorological relationships are illustrated using graphs and supplemented with educational commentary.
 
-At the top of each of the site's pages, visitors will find a menu whose buttons will allow them to navigate the site with ease and efficiency. While the 'plots' drop-down menu directs visitors to pages for several weather indicators, each of which pairs display a graph with a short commentary on the indicator, the page linked to the 'comparisons' button displays all of the graphs together and omits the commentary for visual clarity. Meanwhile, the page linked to the 'project data' button gives visitors access to the data used to make the visualizations and the 'home' button brings visitors back to the home page. The site is written in HTML & CSS.
+At the top of each of the site's pages, visitors will find a menu whose buttons will allow them to navigate the site with ease and efficiency. While the 'plots' drop-down menu directs visitors to pages for several weather indicators, each of which pairs a graph with a short commentary on the indicator, the page linked to the 'comparisons' button displays all of the graphs together and omits the commentary for visual clarity. Meanwhile, the page linked to the 'project data' button gives visitors access to the data used to make the visualizations and the 'home' button brings visitors back to the home page. The site is written in HTML & CSS.
 
 /
 
